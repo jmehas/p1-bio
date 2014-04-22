@@ -1,0 +1,45 @@
+/* Your Website Styles */
+body {
+	background: url("../img/bg.png") repeat;
+}
+
+img{
+	width: 400px;
+}
+
+
+h1{ 
+
+	font-size: 300%;
+	font-family: 'Shadows Into Light', 'cursive';
+	text-align: center;
+	color: red;
+}
+
+
+
+p {	
+font-family: 'Rokkitt', serif; 
+color: red;
+font-weight: bold;
+
+}
+
+h3 {
+	font-size: 200%;
+	font-family: 'Shadows Into Light', 'cursive';
+	color: red;
+}
+
+
+
+ul {
+	font-family: 'Rokkitt', serif;
+	color: red;
+	font-weight: bold;
+}
+
+
+/* Show Grid */
+
+
